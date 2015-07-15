@@ -1,0 +1,26 @@
+{
+  "name": "ShopifyAppImportCustomers",
+  "version": "1.0.0",
+  "description": "A Shopify app to import customers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuongdothanhhuy/Shopify-App-Import-Customers.git"
+  },
+  "keywords": [
+    "import-customers"
+  ],
+  "author": "Vuong Do Thanh Huy, Hoang Ngoc Thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuongdothanhhuy/Shopify-App-Import-Customers/issues"
+  },
+  "homepage": "https://github.com/vuongdothanhhuy/Shopify-App-Import-Customers",
+  "dependencies": {
+    "restify": "^3.0.3",
+    "shopify-node-api": "^1.4.10"
+  }
+}
